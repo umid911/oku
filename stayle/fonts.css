@@ -1,0 +1,14 @@
+
+
+@font-face {
+    font-family: 'mont-bold';
+    src: url(../stayle/fonts/Inter-Bold.ttf);
+}
+@font-face {
+    font-family:'mont-regular' ;
+    src: url(../stayle/fonts/Inter-Regular.ttf);
+}
+@font-face {
+    font-family: 'robo-regular';
+    src: url(../stayle/fonts/Roboto-Regular.ttf);
+}
