@@ -200,6 +200,7 @@
 
     display: block;
     padding-left: 104px;
+    width: 100%;
 }
 .main__content-2{
     
@@ -305,6 +306,7 @@
     display: block;
     margin: 0 auto;
     padding-top: 61px;
+    width: 100%;
 }
 .main__content-logo4{
     position: absolute;
@@ -565,6 +567,9 @@
     color: #46474E;
     font-family: 'mont-regular';
 }
+/* media */
+
+
 
 
 
